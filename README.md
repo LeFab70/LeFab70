@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:845EC2&height=180&section=header&text=Fabrice%20Kouonang&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=D%C3%A9veloppeur%20Full%20Stack%20%7C%20S%C3%A9curit%C3%A9%20%26%20Cloud%2FDevOps&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://github.com/LeFab70">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2E9EF7&center=true&vCenter=true&width=650&lines=%C3%89tudiant%20en%20Bac%20informatique%20%E2%80%94%20Universit%C3%A9%20Laval;D%C3%A9veloppeur%20Full%20Stack%20%3A%20Angular%20%C2%B7%20.NET%20%C2%B7%20Node.js%20%C2%B7%20Flutter;S%C3%A9curit%C3%A9%20informatique%20%2B%20Cloud%20%2B%20DevOps%20en%20progression;Ouvert%20aux%20stages%20et%20opportunit%C3%A9s%20%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+**Étudiant en Bac informatique — Université Laval** · Développeur Full Stack : Angular · .NET · Node.js · Flutter · Sécurité + Cloud + DevOps en progression · Ouvert aux stages et opportunités 🚀
 
 </div>
 
