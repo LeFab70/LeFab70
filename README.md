@@ -1,6 +1,8 @@
 ### Salut, moi c'est Fabrice 👋
 
-Étudiant en Baccalauréat informatique / génie logiciel à l'Université Laval (Québec), avec un parcours varié en développement logiciel et un DEC en programmation mobile (CCNB, mention honneur). Je vise à devenir un développeur full stack solide, avec une attention particulière à la sécurité informatique et à l'infonuagique/DevOps.
+🎓 Étudiant en Baccalauréat en informatique / génie logiciel — **Université Laval**, Québec
+
+Parcours varié en développement logiciel et DEC en programmation mobile (CCNB, mention honneur). Je vise à devenir un développeur full stack solide, avec une attention particulière à la sécurité informatique et à l'infonuagique/DevOps.
 
 #### 🚀 Ce que je fais
 
@@ -23,4 +25,4 @@ AWS Certified Cloud Practitioner · Certificat professionnel en soutien TI (Goog
 
 #### 📫 Me contacter
 
-[LinkedIn](https://www.linkedin.com/in/fabrice-kouonang) · kouonang2002@gmail.com
+[Site web](https://moncvonline.onrender.com/) · [LinkedIn](https://www.linkedin.com/in/fabrice-kouonang) · kouonang2002@gmail.com
