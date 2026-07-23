@@ -1,10 +1,14 @@
+# Salut, moi c'est Fabrice 👋
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:845EC2&height=180&section=header&text=Fabrice%20Kouonang&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=D%C3%A9veloppeur%20Full%20Stack%20%7C%20S%C3%A9curit%C3%A9%20%26%20Cloud%2FDevOps&descAlignY=55&descSize=18" width="100%"/>
-
-**Étudiant en Bac informatique — Université Laval** · Développeur Full Stack : Angular · .NET · Node.js · Flutter · Sécurité + Cloud + DevOps en progression · Ouvert aux stages et opportunités 🚀
+**Développeur Full Stack** · Angular · .NET · Node.js · Flutter
+Sécurité informatique + Cloud + DevOps en progression
+🚀 Ouvert aux stages et opportunités
 
 </div>
+
+<br>
 
 ### 🎓 Étudiant en Baccalauréat en informatique / génie logiciel — Université Laval, Québec
 
@@ -103,5 +107,3 @@ Projet DevOps
 </p>
 
 <br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:845EC2,100:2E9EF7&height=100&section=footer" width="100%"/>
