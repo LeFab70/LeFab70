@@ -19,9 +19,12 @@ Parcours varié en développement logiciel et DEC en programmation mobile (CCNB,
 - [OidCoAuth2Keycloak-Ecom](https://github.com/LeFab70/OidCoAuth2Keycloak-Ecom) — Sécurité applicative avec Keycloak, Angular et Spring Boot
 - [devopsexpo](https://github.com/LeFab70/devopsexpo) — Projet DevOps
 
-#### 🎓 Certifications
+#### 🎓 Formation & Certifications
 
-AWS Certified Cloud Practitioner · Certificat professionnel en soutien TI (Google) · Préparation Microsoft Azure Developer Associate (en cours)
+- AEC en programmation des applications mobiles, spécialisation iOS — Collège Gérald-Godin
+- AWS Certified Cloud Practitioner
+- Certificat professionnel en soutien TI (Google)
+- Préparation Microsoft Azure Developer Associate (en cours)
 
 #### 📫 Me contacter
 
